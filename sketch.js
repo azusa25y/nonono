@@ -5,7 +5,7 @@ var analyzer;
 
 function preload(){
 	// img = loadImage('emojiNono.jpg');
-	song = loadSound("02_-_No_No_No.mp3");
+	song = loadSound("02 - No No No.mp3");
 	
 }
 
